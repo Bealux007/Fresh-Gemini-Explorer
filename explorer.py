@@ -67,3 +67,4 @@ if st.button("Send"):
 for index, message in enumerate(st.session_state.messages):
     content = f"User: {message['User']}\nGemini: {message['Gemini']}"
     st.text_area("Chat", value=content, height=300, key=f"chat_history_{index}")
+    # test
