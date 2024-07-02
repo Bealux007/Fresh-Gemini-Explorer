@@ -50,7 +50,7 @@ To start the application, run the following command:
 
 ![Screenshot 2024-06-23 144745](https://github.com/Bealux007/Gemini-Explorer-Mission/assets/102096427/1e1cda6d-3790-4134-882f-029b6c774752)
 
-• Install the Google SDK from here.
+• Install the[ Google SDK ](https://cloud.google.com/sdk?hl=en)from here.
 
 • Initialize the SDK: gcloud init
 
@@ -62,7 +62,7 @@ To start the application, run the following command:
 
 • Install Streamlit: pip install streamlit
 
-• Refer to the Streamlit Documentation for examples.
+• Refer to the[ Streamlit Documentation ](https://docs.streamlit.io/)for examples.
 
 • Use the project ID instead of the project name from google cloud to avoid permission issues:
 project = "project-id"
@@ -85,7 +85,7 @@ project = "project-id"
 
 • Create a GitHub repository for the project containing all the project files.
 
-• Record a Loom video representing the overall approach. This is the **Loom Link**(https://www.loom.com/share/375ebbf3c55541e38bf11056435846b1?sid=785795da-f518-4ae3-98cf-0c6c9b2dd947)
+• Record a Loom video representing the overall approach.[ Loom Link ](https://www.loom.com/share/375ebbf3c55541e38bf11056435846b1?sid=20166afc-a464-486c-a7e8-9ed6f51d39ea)
 
 ## Issues Faced
 ⚠️ Issue 403: Permission Denied Error
