@@ -20,7 +20,7 @@ Create a user-friendly chat interface using Streamlit that connects with Google'
 Gemini Explorer is an interactive assistant powered by Google Gemini and built using Streamlit. It allows users to interact with ReX, the assistant, in various communication styles such as Standard, Pirate Speak, and GenZ Speak. This project aims to demonstrate the integration of Google Vertex AI with Streamlit to create a conversational AI application.
 
 ## Installation & Clone the Repository
-• git clone https://github.com/Bealux007/Gemini-Explorer-Mission.git
+• git clone
 
 • cd Gemini-Explorer-Mission
 
@@ -50,7 +50,7 @@ To start the application, run the following command:
 
 ![Screenshot 2024-06-23 144745](https://github.com/Bealux007/Gemini-Explorer-Mission/assets/102096427/1e1cda6d-3790-4134-882f-029b6c774752)
 
-• Install the Google SDK from here.
+• Install the[ Google SDK ](https://cloud.google.com/sdk?hl=en)from here.
 
 • Initialize the SDK: gcloud init
 
@@ -62,7 +62,7 @@ To start the application, run the following command:
 
 • Install Streamlit: pip install streamlit
 
-• Refer to the Streamlit Documentation for examples.
+• Refer to the[ Streamlit Documentation ](https://docs.streamlit.io/)for examples.
 
 • Use the project ID instead of the project name from google cloud to avoid permission issues:
 project = "project-id"
@@ -85,7 +85,7 @@ project = "project-id"
 
 • Create a GitHub repository for the project containing all the project files.
 
-• Record a Loom video representing the overall approach. Loom Link
+• Record a Loom video representing the overall approach.[ Loom Link ](https://www.loom.com/share/375ebbf3c55541e38bf11056435846b1?sid=20166afc-a464-486c-a7e8-9ed6f51d39ea)
 
 ## Issues Faced
 ⚠️ Issue 403: Permission Denied Error
