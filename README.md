@@ -20,7 +20,7 @@ Create a user-friendly chat interface using Streamlit that connects with Google'
 Gemini Explorer is an interactive assistant powered by Google Gemini and built using Streamlit. It allows users to interact with ReX, the assistant, in various communication styles such as Standard, Pirate Speak, and GenZ Speak. This project aims to demonstrate the integration of Google Vertex AI with Streamlit to create a conversational AI application.
 
 ## Installation & Clone the Repository
-• git clone https://github.com/Bealux007/Gemini-Explorer-Mission.git
+• git clone
 
 • cd Gemini-Explorer-Mission
 
