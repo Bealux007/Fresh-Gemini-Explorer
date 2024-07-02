@@ -85,7 +85,7 @@ project = "project-id"
 
 • Create a GitHub repository for the project containing all the project files.
 
-• Record a Loom video representing the overall approach. Loom Link
+• Record a Loom video representing the overall approach. This is the **Loom Link**(https://www.loom.com/share/375ebbf3c55541e38bf11056435846b1?sid=785795da-f518-4ae3-98cf-0c6c9b2dd947)
 
 ## Issues Faced
 ⚠️ Issue 403: Permission Denied Error
